@@ -86,13 +86,14 @@
     <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
     <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
     <script>
+      var title = location.pathname.substr(0, 50);
       const gitalk = new Gitalk({
         clientID: 'c5f44513a6ce88d69778',
         clientSecret: 'f6daf1f37fb3af5e0561617f22fb7f35b639f1d4',
-        repo: 'docsify', // 存放评论的仓库
+        repo: 'blanset/docsify', // 存放评论的仓库
         owner: 'blanset', // 仓库的创建者
         admin: ['blanset'], // 如果仓库有多个人可以操作，那么在这里以数组形式写出
-        id: location.pathname, // 用于标记评论是哪个页面的
+        id: title, // 用于标记评论是哪个页面的
       })
     </script>
 
