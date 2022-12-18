@@ -10,7 +10,7 @@
 
 - 🍉**GitHub**&nbsp;&nbsp;[**点击前往**](<https://github.com/blanset/>)
 
-- 🍉**Gitee*&nbsp;&nbsp;[**点击前往**](<https://gitee.com/blanset_2401/dashboard/projects>)
+- 🍉**Gitee**&nbsp;&nbsp;[**点击前往**](<https://gitee.com/blanset_2401/dashboard/projects>)
 
 [GitHub](<https://github.com/blanset>)
 [Getting Started](/首页/首页.md)
